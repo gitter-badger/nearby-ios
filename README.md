@@ -1,2 +1,2 @@
-nearby-ios
+Nearby iOS Application
 ==========
