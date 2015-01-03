@@ -22,8 +22,12 @@ None.
 Standard Xcode project structure.
 
 ##Potential Bugs
+
 * Shelby
+
 ##To do
+
 * Shelby
+
 ##License
 [MIT license](http://opensource.org/licenses/MIT) 
