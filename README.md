@@ -25,7 +25,7 @@ Standard Xcode project structure.
 
 ##Potential Bugs
 
-* The estimote API kit does not support iOS 8 therefore the build breaks.
+* The estimote API kit does not support iOS 8 therefore the build fails.
 
 ##To do
 
