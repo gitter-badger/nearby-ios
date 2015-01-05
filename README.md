@@ -15,7 +15,9 @@ An iOS device is needed for using this application.
 
 
 ##Dependencies
-None.
+All the dependencies are included in the project and here is a list of them: (No installation is required)
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking.git)
+* [Estimote/iOS-Indoor-SDK](https://github.com/Estimote/iOS-Indoor-SDK.git)
 
 ##Structure
 
@@ -23,11 +25,11 @@ Standard Xcode project structure.
 
 ##Potential Bugs
 
-* Shelby
+* The estimote API kit does not support iOS 8 therefore the build breaks.
 
 ##To do
 
-* Shelby
+* Dom & Tom
 
 ##License
 [MIT license](http://opensource.org/licenses/MIT) 
