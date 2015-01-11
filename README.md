@@ -20,15 +20,12 @@ All the dependencies are included in the project and here is a list of them: (No
 * [Estimote/iOS-Indoor-SDK](https://github.com/Estimote/iOS-Indoor-SDK.git)
 
 ##Structure
-
 Standard Xcode project structure.
 
-##Potential Bugs
-
+##[Potential Bugs](https://github.com/Nearby-iBeacon/nearby-ios/issues)
 * The estimote API kit does not support iOS 8 therefore the build fails.
 
 ##To do
-
 * Dom & Tom
 
 ##License
