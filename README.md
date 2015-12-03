@@ -1,5 +1,7 @@
 #Nearby iOS Application
 
+[![Join the chat at https://gitter.im/Nearby-iBeacon/nearby-ios](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Nearby-iBeacon/nearby-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the iOS client application of NearBy. It is able to detect iBeacons and lookup the server for the associated content with that beacon. This app retrieves the webpage that is associated with a beacon and shows the content to the user.
 
 ##Usage
